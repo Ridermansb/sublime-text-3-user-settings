@@ -1,0 +1,24 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"findreplace_small": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme",
+	"word_wrap": false,
+
+	"highlight_modified_tabs": true,
+	"index_exclude_patterns":
+	[
+		"*.log",
+		".git"
+	],
+
+	"save_on_focus_lost": true,
+	"bold_folder_labels": true
+}

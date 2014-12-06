@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"html-css-js prettify",
+		"MarkdownEditing",
+		"Predawn",
+		"SideBarEnhancements"
+	]
+}
